@@ -1,5 +1,6 @@
 # devopsinterviewquestions
 
+#IBM 
 
 ##github:
 #IBM
@@ -19,3 +20,13 @@
 3. stateful | stateless objects ?
 4. Re-deployment strategy in K8s ?
 
+
+
+#**7eleven questions:**
+
+1.	Terrafrom known?
+2.	CICD pipeline created experience ?
+3.	Different types of webhooks ? ** 
+4.	Explain about EC2 experience 
+5.	Process to create EC2 instance 
+6.	Process of using application docker image : convert appln as image –push image to docker hub – get image to nexus repo – use it in deployment 
